@@ -15,5 +15,5 @@ var iftarTime = ["","6:55 PM", "6:55 PM", "6:56 PM", "6:56 PM", "6:57 PM", "6:57
     "7:03 PM", "7:04 PM", "7:04 PM", "7:05 PM", "7:05 PM", "7:06 PM", "7:06 PM", "7:07 PM", "7:07 PM", "7:08 PM",
     "7:08 PM", "7:09 PM"];
 
-document.write("<h1>" + roza[input] + "<h1/>" + "<h3>" + "Sehr Time is " + sehrTime[input] + "<h3/>" + "<h3>" + "Iftar Time is " + iftarTime[input] + "<h3/>")
+document.write("<h1>" + roza[input] + "<h1/>" + "<h3>" + "Sehr time " + sehrTime[input] + "<h3/>" + "<h3>" + "Iftar Time is " + iftarTime[input] + "<h3/>")
 
